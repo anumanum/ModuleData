@@ -1,0 +1,57 @@
+{"modules": [
+
+      {
+
+         "title": "Communications and Learning Skills",
+
+         "code": "EBSY400",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+
+         "title": "Information and Data modelling",
+
+         "code": "EBSY401_EBSI401",
+
+         "credit": 15,
+
+         "assessment": "MCT 20% ( 70% threshold) Examination 80%",
+
+      },
+
+      {
+
+         "title": "PROGRAMMING THE TECHNOLOGY",
+
+         "code": "EBSY402",
+
+         "credit": 30,
+
+         "assessment": "100% coursework",
+
+
+      },
+   
+
+      {
+
+         "title": "Business Mathematics",
+
+         "code": "EBSY403",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      }
+
+   ]
+
+}
