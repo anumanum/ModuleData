@@ -2,7 +2,7 @@
   {"modules": [
 
       {
-
+         "level": 4,
          "title": "Communications and Learning Skills",
 
          "code": "EBSY400",
@@ -15,7 +15,7 @@
       },
 
       {
-
+          "level": 4,
          "title": "Information and Data modelling",
 
          "code": "EBSY401_EBSI401",
@@ -27,7 +27,7 @@
       },
 
       {
-
+         "level": 4,
          "title": "PROGRAMMING THE TECHNOLOGY",
 
          "code": "EBSY402",
@@ -41,7 +41,7 @@
    
 
       {
-
+         "level": 4,
          "title": "Business Mathematics",
 
          "code": "EBSY403",
