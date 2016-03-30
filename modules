@@ -1,5 +1,4 @@
-
-  {"modules": [
+{"modules": [
 
       {
          "level": 4,
@@ -51,7 +50,1003 @@
          "assessment": "100% coursework",
 
 
+      },
+
+
+      {
+         "level": 4,
+         "title": "REQUIREMENTS ANALYSIS",
+
+         "code": "EBSY404",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+
+
+      {
+         "level": 4,
+         "title": "BIS Concepts 1",
+
+         "code": "EBSY405",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "BIS Concepts 2",
+
+         "code": "EBSY406",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "CS Skills",
+
+         "code": "ECSC400_ECSI400",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+
+      {
+         "level": 4,
+         "title": "Computer Systems Fundamentals",
+
+         "code": "ECSC404_ECSI404",
+
+         "credit": 15,
+
+         "assessment": "100% examination",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "Software Development Principles II",
+
+         "code": "ECSC405",
+
+         "credit": 15,
+
+         "assessment": "100% examination",
+
+
+      },
+ 
+         {
+         "level": 4,
+         "title": "Web Technology",
+
+         "code": "ECSC407",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "Mathematics for Computing",
+
+         "code": "ECSC408",
+
+         "credit": 15,
+
+         "assessment": "100% examination",
+
+
+      },
+
+
+      {
+         "level": 4,
+         "title": "Software Development Principles",
+
+         "code": "ECSC410",
+
+         "credit": 30,
+
+         "assessment": "100% examination",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "Information Systems",
+
+         "code": "ECSC411",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      
+      {
+         "level": 4,
+         "title": "USER EXPERIENCE DESIGN",
+
+         "code": "ECWM401",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "INTERACTIVE PRODUCT DEVELOPMENT",
+
+         "code": "ECWM402",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "INTERACTIVE PRODUCT DEVELOPMENT",
+
+         "code": "ECWM402",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "Maths for Game Development",
+
+         "code": "EICG402",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      {
+         "level": 4,
+         "title": "Games Group Project I",
+
+         "code": "EICG406",
+
+         "credit": 30,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Project Management",
+
+         "code": "EBSI501",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+       {
+         "level": 5,
+         "title": "BIS DESIGN AND DEVELOPMENT",
+
+         "code": "EBSY502",
+
+         "credit": 30,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+
+      {
+         "level": 5,
+         "title": "USER INTERFACE DESIGN & USABILITY",
+
+         "code": "EBSY503",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+
+      {
+         "level": 5,
+         "title": "Networked Enterprise",
+
+         "code": "EBSY504",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "DATABASE DESIGN AND PRACTICE 1",
+
+         "code": "EBSY505",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+     
+     {
+         "level": 5,
+         "title": "DATABASE DESIGN AND PRACTICE 1",
+
+         "code": "EBSY505",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "DATABASE DESIGN AND PRACTICE 2",
+
+         "code": "EBSY506",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% examination",
+
+
+      },
+
+
+     {
+         "level": 5,
+         "title": "WEB DEVELOPMENT",
+
+         "code": "EBSY507",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+       {
+         "level": 5,
+         "title": "Business Analytics",
+
+         "code": "EBSY508",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% examination",
+
+
+      },
+
+      
+       {
+         "level": 5,
+         "title": "Comp Forensics Investigations",
+
+         "code": "EBSY509",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% examination",
+
+
+      },
+
+
+     {
+         "level": 5,
+         "title": "PEOPLE, GROUPS AND SOCIAL INTERACTIONS",
+
+         "code": "EBSY510",
+
+         "credit": 15,
+
+         "assessment": "30% coursework and 70% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Professional Practice",
+
+         "code": "ECSC500",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "OBJECT ORIENTED PROGRAMMING I",
+
+         "code": "ECSC501",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Object Oriented Programming II",
+
+         "code": "ECSC502",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Software Development Group Project",
+
+         "code": "ECSC503",
+
+         "credit": 30,
+
+         "assessment": "60% coursework and 40% examination",
+
+
+      },
+
+
+      {
+         "level": 5,
+         "title": "Algorithms and Complexity",
+
+         "code": "ECSC504",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Professional Practice",
+
+         "code": "ECSC505",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+
+      {
+         "level": 5,
+         "title": "ADVANCED INTERACTIVE PRODUCT DEVELOPMENT",
+
+         "code": "ECWM500",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "3D MODELLING & ANIMATION",
+
+         "code": "ECWM501",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Advanced Client-side Web Development",
+
+         "code": "ECWM502",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+       {
+         "level": 5,
+         "title": "Mobile Computing Principles",
+
+         "code": "ECWM506",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Mobile Application Development",
+
+         "code": "ECWM511",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+
+       {
+         "level": 5,
+         "title": "Web Server-side Programming",
+
+         "code": "ECWI512",
+
+         "credit": 15,
+
+         "assessment": "100% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "3D Graphics Programming",
+
+         "code": "EICG501",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Games Physics",
+
+         "code": "EICG502",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Games Physics 2",
+
+         "code": "EICG502",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+       {
+         "level": 5,
+         "title": "Game Engine Architecture",
+
+         "code": "EICG503",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+    {
+         "level": 5,
+         "title": "Games Group Project II",
+
+         "code": "EICG505",
+
+         "credit": 30,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Games Group Project II",
+
+         "code": "EICG505",
+
+         "credit": 30,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+       {
+         "level": 5,
+         "title": "PROFESSIONAL PRACTICE FOR GAMES",
+
+         "code": "EICG508",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% presentation",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "PROFESSIONAL PRACTICE FOR GAMES",
+
+         "code": "EICG508",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% presentation",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Applied Maths and Physics",
+
+         "code": "EICG509",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Service Operations Management",
+
+         "code": "EBSY511",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Network Software Development",
+
+         "code": "ECSE507",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+      {
+         "level": 5,
+         "title": "Computational Intelligence",
+
+         "code": "ECSE515",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "INFORMATION SYSTEMS DEVELOPMENT METHODOLOGIES",
+
+         "code": "EBSY600",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "INFORMATION SYSTEMS STRATEGY",
+
+         "code": "EBSY601",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "INFORMATION SYSTEMS QUALITY AND TESTING",
+
+         "code": "EBSY602",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+
+       {
+         "level": 6,
+         "title": "DATA WAREHOUSING AND MINING",
+
+         "code": "EBSY604",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "ADVANCED TOPICS IN DATABASES",
+
+         "code": "EBSY605",
+
+         "credit": 15,
+
+         "assessment": "40% coursework and 60% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "STARTING A BUSINESS",
+
+         "code": "EBSI610",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Web and Social Media Analytics",
+
+         "code": "EBSY612",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Networked Enterprise",
+
+         "code": "EBSY613",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Business Information Systems Project",
+
+         "code": "EBSY699",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "COMPUTER SCIENCE AND SOFTWARE ENGINEERING PROJECT",
+
+         "code": "ECSC697",
+
+         "credit": 45,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Security and forensics",
+
+         "code": "ECSE609",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Formal Specification",
+
+         "code": "ECSE610",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+
+       {
+         "level": 6,
+         "title": "Computer Systems Administration",
+
+         "code": "ECSE615",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+
+      {
+         "level": 6,
+         "title": "Native Programming",
+
+         "code": "ECWM601",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "SERVICE ORIENTED ARCHITECTURE",
+
+         "code": "ECWM602",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "MOBILE USER EXPERIENCE",
+
+         "code": "ECWM603",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+       
+      {
+         "level": 6,
+         "title": "Advanced Web Technology",
+
+         "code": "ECWM604",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Advanced Animation",
+
+         "code": "ECWM605",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "WEB ANALYTICS AND MARKETING",
+
+         "code": "ECWM606",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+
+      {
+         "level": 6,
+         "title": "REAL-TIME AND EMBEDDED SYSTEMS",
+
+         "code": "ECWM611",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Web Intelligence",
+
+         "code": "ECWM618",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "MULTIMEDIA PROJEC",
+
+         "code": "ECWM697",
+
+         "credit": 45,
+
+         "assessment": "100% coursework",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Advanced Maths for Game Development",
+
+         "code": "EICG601",
+
+         "credit": 15,
+
+         "assessment": "50% coursework and 50% examination",
+
+
+      },
+
+      {
+         "level": 6,
+         "title": "Games Development II",
+
+         "code": "EICG603",
+
+         "credit": 15,
+
+         "assessment": "60% coursework and 40% examination",
+
+
+      },
+
+       {
+         "level": 6,
+         "title": "Knowledge Management",
+
+         "code": "EBSY611",
+
+         "credit": 15,
+
+         "assessment": "100% coursework",
+
+
       }
+
 
    ]
 
